@@ -1,0 +1,19 @@
+--Roman Number Converter
+Roman number converter is a Python code for converting roman numerals to arabic and vice versa. The converter is multiligual and supports 24 languages.
+
+--Installation
+Dowload folder number_converter_beta
+
+You need to have working Python development environment to run the python code. The input and output will be through the environment's console.
+If you do not have any suitable environment, you can download Spyder here: https://www.spyder-ide.org/
+Instal Spyder fy following the instructions in the instalation wizard.
+If you do not have Python installed into your device, you can download and instal it here: https://www.python.org/downloads/.
+To install follow the instructions in the instalation wizard.
+
+--Usage
+Open folder number_converter_beta and run file run_app.py in the Spyder environment. Press 'Run file' button. Choose the language and press enter. 
+Enter the numbers that you want to convert into the console, and press enter.
+
+--Contributing
+
+--License
