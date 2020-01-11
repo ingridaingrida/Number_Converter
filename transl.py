@@ -4,7 +4,7 @@ Created on Mon Jan  6 22:08:09 2020
 
 @author: ingrida grigonyte
 """
-from langs import *
+from langs import en, bg, cz, da, de, el, es, et, fi, fr, ga, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv
 
 
 def translate_msg(lang, msg):
